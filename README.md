@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jose, DevOps Engineer at OBytes 🛠
+I'm Jose, SRE at OBytes 🛠
 
 BSc in Computer Science Engineering from the University of Santiago de Compostela, passionate about DevOps and automation. I feel comfortable working with AWS, Terraform, Linux, Docker, Ansible, Kubernetes, Python, Django, Git, GCP, CI/CD, Datadog, Sentry...
 
