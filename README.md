@@ -2,11 +2,13 @@
 
 I'm Jose, SRE at OBytes 🛠
 
-BSc in Computer Science Engineering from the University of Santiago de Compostela, passionate about DevOps and automation. I feel comfortable working with AWS, Terraform, Linux, Docker, Ansible, Kubernetes, Python, Django, Git, GCP, CI/CD, Datadog, Sentry...
+BSc in Computer Science Engineering, with over 10 years of experience in DevOps, cloud infrastructure, and automation. I’m passionate about building scalable, reliable systems and streamlining operations through efficient tooling and processes.
 
-I'm an outgoing and open-minded person, who likes to face new challenges and keep growing each day as a professional.
+I have solid hands-on experience with AWS, Terraform, Linux, Docker, Kubernetes, Datadog, CI/CD, Git, and Python, among other tools and technologies.
+
+I enjoy working on automation, observability, and cloud infrastructure projects that help teams move faster and operate more reliably. As an outgoing and open-minded professional, I enjoy tackling new challenges, collaborating across teams, and continuously improving both my skills and the systems I work on.
 
 📫 How to reach me:
 
 - Webpage: https://kstromeiraos.com
-- Twitter: https://twitter.com/kstromeiraos
+- X: https://x.com/kstromeiraos
